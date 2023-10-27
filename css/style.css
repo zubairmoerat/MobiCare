@@ -5,3 +5,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+#Home{
+    background: url("https://i.postimg.cc/x8mryvSX/R.jpg");
+    background-repeat: no-repeat;
+    background-size: 300px 100px;
+    background-size: cover;
+}
